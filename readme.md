@@ -2,6 +2,12 @@
 
 ScanSage is a comprehensive solution designed to enhance security measures by seamlessly integrating machine learning-based ID card detection with real-time analytics and intuitive UI on an Android application.
 
+## Initial Demo
+-   https://youtu.be/7vzpzBWjh04
+
+## Full Video Demo 
+-   https://youtu.be/7vzpzBWjh04
+
 ## Description
 
 ScanSage comprises two main components:
@@ -43,12 +49,6 @@ Provides real-time analytics through graphs.
 User authentication through email and password.
 Search functionality for entries of persons wearing ID cards or not.
 Generates notifications for ID card violations.
-
-## Initial Demo
--   https://youtu.be/7vzpzBWjh04
-
-## Full Video Demo 
--   https://youtu.be/7vzpzBWjh04
 
 ## Development Setup
 
